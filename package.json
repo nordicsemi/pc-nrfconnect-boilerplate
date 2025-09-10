@@ -11,12 +11,13 @@
     "author": "Nordic Semiconductor ASA",
     "license": "SEE LICENSE IN LICENSE",
     "engines": {
-        "nrfconnect": ">=4.3.0"
+        "nrfconnect": ">=5.2.0"
     },
     "nrfConnectForDesktop": {
+        "nrfutilCore": "8.0.0",
         "nrfutil": {
             "device": [
-                "2.5.0"
+                "2.7.16"
             ]
         },
         "html": "dist/index.html"
@@ -44,7 +45,7 @@
         "prepare": "husky install"
     },
     "devDependencies": {
-        "@nordicsemiconductor/pc-nrfconnect-shared": "^200.0.0",
+        "@nordicsemiconductor/pc-nrfconnect-shared": "^226.0.0",
         "@types/react-test-renderer": "18.0.0",
         "react-test-renderer": "^18.2.0"
     },
