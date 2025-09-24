@@ -14,7 +14,7 @@
         "nrfconnect": ">=5.2.0"
     },
     "nrfConnectForDesktop": {
-        "nrfutilCore": "8.0.0",
+        "nrfutilCore": "8.1.1",
         "nrfutil": {
             "device": [
                 "2.7.16"
