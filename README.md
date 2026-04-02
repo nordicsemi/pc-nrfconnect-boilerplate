@@ -5,15 +5,14 @@
 
 _nRF Connect Boilerplate_ provides a starting point for developing apps that can
 be launched by
-[nRF Connect for Desktop](https://github.com/NordicSemiconductor/pc-nrfconnect-launcher).
+[nRF Connect for Desktop](https://github.com/nordicsemi/pc-nrfconnect-launcher).
 
 ## Development
 
-See the
-[app development](https://nordicsemiconductor.github.io/pc-nrfconnect-docs/)
+See the [app development](https://nordicsemi.github.io/pc-nrfconnect-docs/)
 pages for details on how to develop apps for the nRF Connect for Desktop
 framework and specifically the description
-[how to create a new app project](https://nordicsemiconductor.github.io/pc-nrfconnect-docs/create_new_app),
+[how to create a new app project](https://nordicsemi.github.io/pc-nrfconnect-docs/create_new_app),
 to understand how you may use this project.
 
 ## Feedback
@@ -23,7 +22,7 @@ Please report issues on the [DevZone](https://devzone.nordicsemi.com) portal.
 ## Contributing
 
 See the
-[infos on contributing](https://nordicsemiconductor.github.io/pc-nrfconnect-docs/contributing)
+[infos on contributing](https://nordicsemi.github.io/pc-nrfconnect-docs/contributing)
 for details.
 
 ## License
