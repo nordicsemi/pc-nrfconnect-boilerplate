@@ -22,5 +22,5 @@ jobs:
         with:
             source: ${{ inputs.source }}
             ref: ${{ inputs.ref }}
-            # doc_bundle_name: nrf-connect-boilerplate # If this project has documentation, uncomment this line and set the right bundle name for the docs
+            # unified_doc_project_name: pc-nrfconnect-boilerplate # If this project has documentation, uncomment this line and set the right project name, as used in https://github.com/nordicsemi/swtools-app-docs/blob/main/projects.json
         secrets: inherit
